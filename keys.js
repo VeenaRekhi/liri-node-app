@@ -1,0 +1,7 @@
+exports.twitterKeys = {
+
+	consumer_key: 'YyhLzcim9KSS5hb5ErasmXf5H',
+	consumer_secret: 'LTMtSRt6ZOhhUFvDa2Fvc8pTNjAIdz1S8K9NT8yKLOlOYRUR46',
+	access_token_key: '829124551875424260-QhE6iXttAOxFnI8LOfupwXon0aAFOJv',
+	access_token_secret: 'kEtEmTrfZ3BeFjXDtRU0szfjEAoagon5cBFDcvKIfAMF8'
+}
