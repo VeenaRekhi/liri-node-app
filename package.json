@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "node-app",
+  "main": "liri.js",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "request": "^2.79.0",
+    "twitter": "^1.7.0",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "my-movie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeenaRekhi/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "veenarekhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VeenaRekhi/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/VeenaRekhi/liri-node-app#readme"
+}
